@@ -44,5 +44,3 @@ elif selected == "Fun character guess rewards":
 elif selected == "Movie recommender system":
     st.title(f"You have selected {selected}")
     app.classification()
-
-
